@@ -1,7 +1,11 @@
 # React vite boilerplate
-Go the folder in which you want to create your react project. Then clone this repo with your desired name:
+Go to the folder in which you want to create your react project. Then clone this repo with your desired name:
 ```
-git clone git@github.com:ashutoshbw314/react-vite-boilerplate.git name-of-your-app
+$ git clone https://github.com/ashutoshbw314/react-vite-boilerplate.git name-of-your-app
+```
+or
+```
+$ git clone git@github.com:ashutoshbw314/react-vite-boilerplate.git name-of-your-app
 ```
 
 Below are some essential commands:
